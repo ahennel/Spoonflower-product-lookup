@@ -1,6 +1,7 @@
 # Spoonflower Fabric Search
 
 Author: Amanda Hennel
+
 Description: A simple React application that displays Spoonflower fabric products and allows users to narrow their search by certain criteria.
 
 I plan to continue this project for educational purposes after initial delivery. TODO list:
