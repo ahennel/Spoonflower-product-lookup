@@ -8,12 +8,12 @@ I plan to continue this project for educational purposes after initial delivery.
 
 - Add Typescript
 - Write unit tests using Jest
-- Add Product filter to display other prouct types
-- Add UI framework like Material or similar
+- Add Product filter to display other product types
+- Add UI framework like Material or Chakra
 - Add more accessibility features
 - Lazy load images
 - Split out all styles into seprate files for each componeent
-- Look into cookie cross-site request, most likely to use express.js
+- Look into cookie cross-site request, most likely use express.js
 
 ## Available Scripts
 
