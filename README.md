@@ -6,9 +6,6 @@ Description: A simple React application that displays Spoonflower fabric product
 
 I plan to continue this project for educational purposes after initial delivery. TODO list:
 
-- Add Typescript
-- Write unit tests using Jest
-- Add Product filter to display other product types
 - Add UI framework like Material or Chakra
 - Add more accessibility features
 - Lazy load images
